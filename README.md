@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rithvik8001
-- 👀 React Native Enthusiast
-- 🌱 I’m currently learning React Native
+- 👀 UI/UX Enthusiast
+- 🌱 I’m currently learning React JS
 - 📫 You can reach me at rithvik.utd@outlook.com
 
 <!---
