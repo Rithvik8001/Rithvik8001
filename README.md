@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rithvik8001
-- 👀 Web Development enthusiast
-- 🌱 I’m currently learning React Js
-- 📫 You can reach me at rithvik.utd@icloud.com
+- 👀 React Native Enthusiast
+- 🌱 I’m currently learning React Native
+- 📫 You can reach me at rithvik.utd@outlook.com
 
 <!---
 Rithvik8001/Rithvik8001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
