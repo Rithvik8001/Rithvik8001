@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rithvik8001
-- 👀 UI/UX Enthusiast
-- 🌱 I’m currently learning React JS
+- 👀 Devops Entusiast
+- 🌱 I’m currently learning AWS
 - 📫 You can reach me at rithvik.utd@outlook.com
 
 <!---
