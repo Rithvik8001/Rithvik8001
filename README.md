@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rithvik8001
-- 👀 Devops Entusiast
-- 🌱 I’m currently learning AWS
+- Frontend Engineer🩵
+- 🌱 Currently learning AWS
 - 📫 You can reach me at rithvik.utd@outlook.com
 
 <!---
