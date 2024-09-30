@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rithvik8001
 - Frontend Engineer🩵
-- 🌱 Currently learning React JS
+- 🌱 Currently learning NextJS
 - 📫 You can reach me at rithvik.utd@outlook.com
 
 <!---
