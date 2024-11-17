@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻My Portfolio [https://rithvik-portfolio.vercel.app/](https://rithvik-portfolio.vercel.app/)
+- 👨‍💻My Portfolio [https://rithviks-portfolio.vercel.app/](https://rithviks-portfolio.vercel.app/)
 
 - 💬 Ask me about **Javascript, React JS**
 
