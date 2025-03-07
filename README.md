@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rithvik</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Frontend Developer | IOS Enthusiast</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 My Portfolio [https://rithviks-portfolio.vercel.app/](https://rithviks-portfolio.vercel.app/)
+- 👨‍💻 My Portfolio [https://rithvik-design.vercel.app/](https://rithvik-design.vercel.app/)
 
 - 💬 Ask me about **Javascript,React**
 
