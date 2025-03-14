@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithvik Pallamreddy</h1>
-<h3 align="center">Frontend Developer | IOS Enthusiast</h3>
+<h3 align="center">Junior IOS Engineer | Frontend Enthusiast</h3>
 
 - 🌱 I’m currently diving deep in **IOS Development**
 
