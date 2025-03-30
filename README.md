@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rithvik Pallamreddy</h1>
 <h3 align="center">Junior IOS Engineer | Frontend Enthusiast</h3>
 
-- 👨‍💻 My Portfolio [https://rithvik-design.vercel.app/](https://rithvik-design.vercel.app/)
+- 👨‍💻 My Portfolio [https://rithvik-space.vercel.app/](https://rithvik-design.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, Swift, SwiftUI**
 
